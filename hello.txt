@@ -12,5 +12,5 @@ hello Gover! hello git!
 hello Gover! hello git!
 hello Gover! hello git!
 hello Gover! hello git!
-hello Gover! hello git!
-hello Gover! hello git!
+hello Gover! hello git! 
+hello Gover! hello git! hot-fix test
